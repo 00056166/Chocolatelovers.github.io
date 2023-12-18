@@ -1,0 +1,41 @@
+*{ 
+	margin:0;
+	padding:2px;
+}
+header {
+		background-color:#D3B9B1;
+		text-align: center;
+		padding: 20px;
+}
+
+body{
+		background-color:#EDEBD7;
+	
+		
+
+		}
+		
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #E7EB90;
+  text-align: center;
+  padding: 14px 18px;
+  text-decoration:none;
+}
+.topnav a:hover {
+  background-color:white;opacity:0.6;
+  color: #D3B9B1;opacity:0.6;
+}
+
+
+footer {
+		background-color:#D3B9B1;
+		text-align: center;
+		color:white;
+		padding: 20px;
+}
